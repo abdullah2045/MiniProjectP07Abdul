@@ -13,6 +13,7 @@ Fitur yang diimplementasikan
 - [x] Filter View (Fitur Bonus):
 - [x] Progress Counter (Fitur Bonus):
 - [x] UI/UX Modern (P02, P03, & Fitur Bonus):
+
 Screenshot app di HP fisik (wajib!)
 - [<img width="1080" height="2400" alt="List1" src="https://github.com/user-attachments/assets/19c473f7-089b-4328-b55b-25e8fd55e660" />]
 - Cara menjalankan project (npx expo start)
